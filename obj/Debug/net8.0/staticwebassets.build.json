@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GZW5+1LGNhOKo+RtpseLvjGd1fgKlojsoR2ZjT9NrNA=",
+  "Source": "DemoWithELK",
+  "BasePath": "_content/DemoWithELK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
